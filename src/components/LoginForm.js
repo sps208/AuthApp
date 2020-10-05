@@ -45,7 +45,7 @@ onButtonPress() {
             })
         })
     })
-    }
+}
 
     renderButton() {
         if (this.state.loading) {
